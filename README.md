@@ -1,6 +1,0 @@
-# SEGGER_RTT
-SEGGER_RTT打印
-
-
-
-note1:
